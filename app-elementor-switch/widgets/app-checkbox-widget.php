@@ -6,7 +6,7 @@ class App_Checkbox_Widget extends \Elementor\Widget_Base {
     }
 
     public function get_title() {
-        return __( 'Switch Box', 'App-elementor-switch' );
+        return __( 'App Switch Box', 'App-elementor-switch' );
     }
 
     public function get_icon() {
